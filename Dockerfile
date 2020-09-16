@@ -3,6 +3,10 @@
 # Official Node JS runtime as a parent image
 FROM node:10.16.0-alpine
 
+#Install GIT
+RUN apk add --no-cache git
+RUN git --version
+
 # Set the working directory to ./app
 WORKDIR ./app
 
