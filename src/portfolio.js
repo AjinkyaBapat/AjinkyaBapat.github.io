@@ -7,9 +7,9 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
+  username: "Ajinkya Bapat",
+  title: "Hi all, I'm Ajinkya",
+  subTitle: emoji("A passionate DevOps Engineer 🚀 having an experience in architecting, automating and optimizing mission critical deployments over large infrastructure."),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -17,13 +17,13 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
+  github: "https://github.com/AjinkyaBapat",
+  linkedin: "https://www.linkedin.com/in/ajinkyabapat/",
+  gmail: "ajinkyabapat12@gmail.com",
+  twitter: "https://twitter.com/ajinkyab12",
   facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta"
+ // medium: "https://medium.com/@saadpasta",
+  stackoverflow: "https://stackoverflow.com/users/6202024/ajinkya-bapat"
   // Instagram and Twitter are also supported in the links!
 };
 
@@ -31,11 +31,11 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "I do DevOps, that's it!",
   skills: [
-    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
+    emoji("⚡ Actively manage, improve, and monitor cloud infrastructure on AWS, GCP & AZURE"),
+    emoji("⚡ Leveraging configuration management, CI/CD, IaC, and other DevOps processes"),
+    emoji("⚡ Orchestrating Docker containers using Kubernetes & Swarm for Microservices.")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -43,45 +43,51 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
     },
+
+    {
+      skillName: "azure",
+      fontAwesomeClassname: "fab fa-windows"
+    },
+    {
+      skillName: "gcp",
+      fontAwesomeClassname: "fab fa-google"
+    },
+    {
+      skillName: "ci/cd",
+      fontAwesomeClassname: "fab fa-jenkins"
+    },
+    {
+      skillName: "ansible",
+      fontAwesomeClassname: "fab fa-adn"
+    },
+    {
+      skillName: "docker",
+      fontAwesomeClassname: "fab fa-docker"
+    },    
+    {
+      skillName: "kubernetes",
+      fontAwesomeClassname: "fas fa-dharmachakra"
+    },
+    {
+      skillName: "databases",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "terraform",
+      fontAwesomeClassname: "fas fa-file-code"
+    },
+    {
+      skillName: "scripting",
+      fontAwesomeClassname: "fas fa-terminal"
+    },
+/*     {
+      skillName: "npm",
+      fontAwesomeClassname: "fab fa-npm"
+    },
+
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
@@ -90,11 +96,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
-  ]
+ */  ]
 };
 
 // Your top 3 proficient stacks/tech experience
