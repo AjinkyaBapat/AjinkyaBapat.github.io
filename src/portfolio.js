@@ -213,36 +213,6 @@ const achievementSection = {
         { name: "Certification", url: "" },
         { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
       ]
-    },
-
-    {
-      title: "Rancher Certification",
-      subtitle: "Certified Rancher Operator.",
-      image: require("./assets/images/pwaLogo.webp"),
-      footerLink: [
-        { name: "Certification", url: "" },
-        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
-      ]
-    }, 
-
-    {
-      title: "Aviatrix Certification",
-      subtitle: "Aviatrix Certified Multi-Cloud Networking Associate.",
-      image: require("./assets/images/pwaLogo.webp"),
-      footerLink: [
-        { name: "Certification", url: "" },
-        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
-      ]
-    }
-
-    {
-      title: "Scrum Certification",
-      subtitle: "Certified Scrum Foundation Professional.",
-      image: require("./assets/images/pwaLogo.webp"),
-      footerLink: [
-        { name: "Certification", url: "" },
-        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
-      ]
     }
   ]
 };
@@ -286,13 +256,13 @@ const talkSection = {
 
 // Podcast Section
 
-/* const podcastSection = {
+const podcastSection = {
   title: emoji("Podcast 🎙️"),
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
   podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
-}; */
+};
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
@@ -303,9 +273,9 @@ const contactInfo = {
 
 //Twitter Section
 
-/* const twitterDetails = {
+const twitterDetails = {
 
   userName : "twitter"//Replace "twitter" with your twitter username without @
   
-}; */
+};
 export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
