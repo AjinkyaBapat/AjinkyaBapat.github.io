@@ -105,15 +105,15 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design",  //Insert stack or technology you have experience in
+      Stack: "DevOps",  //Insert stack or technology you have experience in
       progressPercentage: "90%"  //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Databases",
       progressPercentage: "70%"
     },
     {
-      Stack: "Programming",
+      Stack: "Programming/Scripting",
       progressPercentage: "60%"
     }
   ]
@@ -126,29 +126,29 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",  
-      company: "Facebook",
+      role: "DevOps Engineer",  
+      company: "Ignite",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "Apr 2018",
+      desc: "Handling end to end DevOps Responsibilities.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Arrange, build, deploy and sustain virtual infrastructure environments",
+        "Cloud Development, Installation & Management."
       ]
     },
     {
-      role: "Front-End Developer",   
-      company: "Quora",
+      role: "DevOps Engineer",   
+      company: "DXC",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "Apr 2017 – Apr 2018",
+      desc: "Handled IaaS offerings to Client through Private Cloud."
     },
     {
-      role: "Software Engineer Intern",  
-      company: "Airbnb",
+      role: "DevOps Engineer",  
+      company: "HP/HPE",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "Nov 2015 – Apr 2017",
+      desc: "Handled Enterprise Application Deployments, IaC, CI/CD on Private Cloud."
     },
   ]
 };
@@ -158,7 +158,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "saadpasta", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "AjinkyaBapat", // Change to your github username to view your profile in Contact Section.
   showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false 
 };
 
@@ -189,8 +189,8 @@ const achievementSection = {
 
   achivementsCards: [
     {
-      title: "Google Code-In Finalist",
-      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      title: "MongoDB Certification",
+      subtitle: "A certified MongoDB Database Administrator Associate.",
       image: require("./assets/images/codeInLogo.webp"),
       footerLink: [
         { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
@@ -199,15 +199,15 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+      title: "Cassandra Certification",
+      subtitle: "Certified Apache Cassandra Administrator Associate.",
       image: require("./assets/images/googleAssistantLogo.webp"),
       footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      title: "Alibaba Cloud Certifications",
+      subtitle: "Certified ACA - Cloud, BigData, Security & Cloud Native.",
       image: require("./assets/images/pwaLogo.webp"),
       footerLink: [
         { name: "Certification", url: "" },
