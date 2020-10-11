@@ -128,7 +128,7 @@ const workExperiences = {
     {
       role: "DevOps Engineer",  
       company: "Ignite",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/ignitelogo.png"),
       date: "Apr 2018",
       desc: "Handling end to end DevOps Responsibilities.",
       descBullets: [
@@ -139,14 +139,14 @@ const workExperiences = {
     {
       role: "DevOps Engineer",   
       company: "DXC",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/dxclogo.png"),
       date: "Apr 2017 – Apr 2018",
       desc: "Handled IaaS offerings to Client through Private Cloud."
     },
     {
       role: "DevOps Engineer",  
       company: "HP/HPE",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/hplogo.png"),
       date: "Nov 2015 – Apr 2017",
       desc: "Handled Enterprise Application Deployments, IaC, CI/CD on Private Cloud."
     },
