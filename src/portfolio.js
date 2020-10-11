@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Ajinkya Bapat",
   title: "Hello, I'm Ajinkya",
-  subTitle: emoji("A passionate DevOps Engineer 🚀 having an experience in architecting, automating and optimizing mission critical deployments over large infrastructure."),
+  subTitle: emoji("A passionate DevOps Engineer 🚀 experienced in architecting, automating and optimizing mission critical deployments over large infrastructure."),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -21,7 +21,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/ajinkyabapat/",
   gmail: "ajinkyabapat12@gmail.com",
   twitter: "https://twitter.com/ajinkyab12",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  //facebook: "https://www.facebook.com/saad.pasta7",
  // medium: "https://medium.com/@saadpasta",
   stackoverflow: "https://stackoverflow.com/users/6202024/ajinkya-bapat"
   // Instagram and Twitter are also supported in the links!
@@ -165,7 +165,7 @@ const openSource = {
 
 // Some Big Projects You have worked with your company
 
-const bigProjects = {
+/*const bigProjects = {
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
@@ -179,6 +179,7 @@ const bigProjects = {
     }
   ]
 };
+*/
 
 // Your Achievement Section Include Your Certification Talks and More
 
@@ -188,6 +189,26 @@ const achievementSection = {
   subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achivementsCards: [
+    {
+      title: "Azure Certification",
+      subtitle: "Microsoft Azure Administrator Associate.",
+      image: require("./assets/images/codeInLogo.webp"),
+      footerLink: [
+        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
+        { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
+        { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+      ]
+    }, 
+    {
+      title: "Microsoft Certified Trainer",
+      subtitle: "A Microsoft Certified Trainer.",
+      image: require("./assets/images/codeInLogo.webp"),
+      footerLink: [
+        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
+        { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
+        { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+      ]
+    },
     {
       title: "MongoDB Certification",
       subtitle: "A certified MongoDB Database Administrator Associate.",
@@ -226,20 +247,25 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+      url: "http://iamajinkya.me/techwisdom/mongodbcert/",
+      title: "Passing MongoDB Certified DBA Exam (Part 1)",
+      description: "Everything you need to know about the MongoDB Certified DBA (C100DBA) Exam!"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+      url: "http://iamajinkya.me/techwisdom/aviatrix-ace-certification/",
+      title: "Passing Aviatrix Certified Engineer Exam",
+      description: "The Aviatrix Certified Engineer (ACE) Program is the first multi-cloud networking and security certification available to technical professionals and cloud practitioners."
+    },
+    {
+      url: "http://iamajinkya.me/techwisdom/",
+      title: "Link to my Blog",
+      description: "Head over to my blog site to read more articles on DevOps."
     }
   ]
 };
 
 // Talks Sections
-
+/*
 const talkSection = {
   title: "TALKS",
   subtitle: emoji("I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"),
@@ -263,12 +289,13 @@ const podcastSection = {
   // Please Provide with Your Podcast embeded Link
   podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
 };
+*/
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  //number: "+92-3243454077",
+  email_address: "ajinkyabapat12@gmail.com"
 };
 
 //Twitter Section
