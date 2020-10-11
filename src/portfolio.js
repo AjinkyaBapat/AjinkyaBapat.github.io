@@ -194,45 +194,80 @@ const achievementSection = {
       subtitle: "Microsoft Azure Administrator Associate.",
       image: require("./assets/images/azbadge.png"),
       footerLink: [
-        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
-        { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
-        { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+        { name: "Certificate", url: "" },
+        { name: "Verify Badge", url: "https://www.youracclaim.com/badges/79f868a7-d52f-460d-9927-aa6dd1b31b0b/public_url" },
+        { name: "Exam Page", url: "https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" }
       ]
     }, 
     {
       title: "Microsoft Certified Trainer",
-      subtitle: "A Microsoft Certified Trainer.",
+      subtitle: "Microsoft Certified Trainer.",
       image: require("./assets/images/mctbadge.png"),
       footerLink: [
-        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
-        { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
-        { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+        { name: "Certificate", url: "" },
+        { name: "Verify Badge", url: "https://www.youracclaim.com/badges/1c180dd5-6f96-4f6d-b507-6900a600d1ff/public_url" },
+        { name: "Program Page", url: "https://docs.microsoft.com/en-us/learn/certifications/mct-certification"}
+      ]
+    },
+    {
+      title: "Terraform Certification",
+      subtitle: "Hashicorp Certified Terraform Associate.",
+      image: require("./assets/images/tfbadge.png"),
+      footerLink: [
+        { name: "Certificate", url: "" },
+        { name: "Verify Badge", url: "https://www.youracclaim.com/badges/7f9c2d3e-d396-467d-861f-8e469d928056/public_url" },
+        { name: "Exam Page", url: "https://www.hashicorp.com/certification/terraform-associate" }
       ]
     },
     {
       title: "MongoDB Certification",
-      subtitle: "A certified MongoDB Database Administrator Associate.",
+      subtitle: "Certified MongoDB Database Administrator Associate.",
       image: require("./assets/images/mongodbbadge.png"),
       footerLink: [
-        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
-        { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
-        { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+        { name: "Certificate", url: "https://university.mongodb.com/certification/display_certificate?license1=399&license2=908&license3=863" },
+        { name: "Verify Badge", url: "https://university.mongodb.com/certified_professional_finder/certified_professionals/940824" },
+        { name: "Exam Page", url: "https://university.mongodb.com/certification/dba/about" }
       ]
     },
     {
       title: "Cassandra Certification",
       subtitle: "Certified Apache Cassandra Administrator Associate.",
       image: require("./assets/images/cassandrabadge.png"),
-      footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
+      footerLink: [
+        { name: "Certificate", url: "" },
+        { name: "Verify Badge", url: "https://certification.mettl.com/datastax/applicant/verify-certification-with-qr?email=ajinkyabapat12%40gmail.com&assessment=Cassandra%20Administrator%20Exam%20v1&date=Sep%2015,%202020" },
+        { name: "Exam Page", url: "https://www.datastax.com/dev/certifications" }   
+      ]
     },
-
     {
       title: "Alibaba Cloud Certifications",
-      subtitle: "Certified ACA - Cloud, BigData, Security & Cloud Native.",
+      subtitle: "4x Certified ACA - Cloud, BigData, Security & Cloud Native.",
       image: require("./assets/images/acabadge.png"),
       footerLink: [
-        { name: "Certification", url: "" },
-        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
+        { name: "ACA-Cloud", url: "https://xuecdn2.aliyunedu.net/img_edcebd8ff1e53e90d7263527cd18c8d6.png" },
+        { name: "ACA-Cloud-Native", url: "https://xuecdn2.aliyunedu.net/img_5595b387cfd3eb7b69753f1ee345b737.png" },
+        { name: "ACA-Security", url: "https://xuecdn2.aliyunedu.net/img_b682b1ede9b8c6ffbf0186eb4fb010f0.png" },
+        { name: "ACA-BigData", url: "https://xuecdn2.aliyunedu.net/img_b9781aff03d5c771d89b6d90fc1771a2.png" }
+      ]
+    },
+    {
+      title: "Aviatrix Certification",
+      subtitle: "Aviatrix Certified Multi-Cloud Networking Associate.",
+      image: require("./assets/images/acebadge.png"),
+      footerLink: [
+        { name: "Certificate", url: "" },
+        { name: "Verify Badge", url: "https://www.youracclaim.com/badges/275a1101-6131-4126-8051-ba5999acec7c/public_url"},
+        { name: "Exam Page", url: "https://aviatrix.com/ace/"}
+      ]
+    },
+    {
+      title: "Scrum Certification",
+      subtitle: "Scrum Foundation Certified Professional.",
+      image: require("./assets/images/cassandrabadge.png"),
+      footerLink: [
+        { name: "Certificate", url: "" },
+        { name: "Verify Badge", url: "https://www.youracclaim.com/badges/a793045a-410d-44ab-a440-d721e09fc2fb/public_url"},
+        { name: "Exam Page", url: "https://certiprof.com/pages/scrum-foundation-professional-certificate-sfpc-en-sp"}
       ]
     }
   ]
