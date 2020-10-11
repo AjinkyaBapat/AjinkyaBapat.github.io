@@ -4,6 +4,7 @@
 // import { talkSection } from "../../portfolio";
 // import { Fade } from "react-reveal";
 
+// /*
 // export default function Talks() {
 //   return (
 //     <Fade bottom duration={1000} distance="20px">
@@ -30,4 +31,5 @@
 //     </div>
 //     </Fade>
 //   );
-// }
+
+// }*/
