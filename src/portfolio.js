@@ -292,17 +292,19 @@ const podcastSection = {
 */
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
+  title: emoji("Contact Me"),
+  subtitle: "Discuss a project, Work opportunity or just want to say hi? My Inbox is open for all.",
   //number: "+92-3243454077",
   email_address: "ajinkyabapat12@gmail.com"
 };
 
 //Twitter Section
-
+/*
 const twitterDetails = {
 
   userName : "twitter"//Replace "twitter" with your twitter username without @
   
 };
-export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, achievementSection, blogSection, contactInfo , twitterDetails};
+*/
+
+export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, achievementSection, blogSection, contactInfo };
