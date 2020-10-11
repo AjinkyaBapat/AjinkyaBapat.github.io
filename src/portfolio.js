@@ -192,7 +192,7 @@ const achievementSection = {
     {
       title: "Azure Certification",
       subtitle: "Microsoft Azure Administrator Associate.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/azbadge.png"),
       footerLink: [
         { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
         { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
@@ -202,7 +202,7 @@ const achievementSection = {
     {
       title: "Microsoft Certified Trainer",
       subtitle: "A Microsoft Certified Trainer.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/mctbadge.png"),
       footerLink: [
         { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
         { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
@@ -212,7 +212,7 @@ const achievementSection = {
     {
       title: "MongoDB Certification",
       subtitle: "A certified MongoDB Database Administrator Associate.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/mongodbbadge.png"),
       footerLink: [
         { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
         { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
@@ -222,14 +222,14 @@ const achievementSection = {
     {
       title: "Cassandra Certification",
       subtitle: "Certified Apache Cassandra Administrator Associate.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/cassandrabadge.png"),
       footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
     },
 
     {
       title: "Alibaba Cloud Certifications",
       subtitle: "Certified ACA - Cloud, BigData, Security & Cloud Native.",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/acabadge.png"),
       footerLink: [
         { name: "Certification", url: "" },
         { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
