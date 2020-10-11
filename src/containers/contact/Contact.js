@@ -1,7 +1,7 @@
 import React from "react";
 import "./Contact.css";
 import "../../components/githubProfileCard/GithubProfileCard.css";
-import "../../containers/blogs/Blogs.css";
+import "../../containers/blogs/Blog.css";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import {contactInfo} from "../../portfolio";
 import { Fade } from "react-reveal";
@@ -44,7 +44,7 @@ export default function Contact() {
                             <SocialMedia/>
                         </div>
                     </div>
-                    
+
                     <div className="contact-image-div">
                         <img alt="Ajinkya Working" src={require("../../assets/images/contactMail.webp")}></img>
                     </div>
