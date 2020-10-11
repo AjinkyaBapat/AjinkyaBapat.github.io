@@ -10,7 +10,7 @@ const greeting = {
   username: "Ajinkya Bapat",
   title: "Hello, I'm Ajinkya",
   subTitle: emoji("A passionate DevOps Engineer 🚀 experienced in architecting, automating and optimizing mission critical deployments over large infrastructure."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "http://iamajinkya.me/techwisdom/"
 };
 
 // Your Social Media Link
