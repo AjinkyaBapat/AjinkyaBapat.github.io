@@ -240,7 +240,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "Alibaba Cloud Certifications",
+      title: "Alibaba Certifications",
       subtitle: "4x Certified ACA - Cloud, BigData, Security & Cloud Native.",
       image: require("./assets/images/acabadge.png"),
       footerLink: [
@@ -263,7 +263,7 @@ const achievementSection = {
     {
       title: "Scrum Certification",
       subtitle: "Scrum Foundation Certified Professional.",
-      image: require("./assets/images/cassandrabadge.png"),
+      image: require("./assets/images/scrumbadge.png"),
       footerLink: [
         { name: "Certificate", url: "" },
         { name: "Verify Badge", url: "https://www.youracclaim.com/badges/a793045a-410d-44ab-a440-d721e09fc2fb/public_url"},
