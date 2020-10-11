@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a1bbf43c0cdbece5505b156beb142cc",
+    "revision": "0485d09bd6d15caee7f15047d080386c",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "34904169d4c07af8011d",
+    "revision": "7a34539e300ac1cd7bbf",
     "url": "/static/css/main.e7116407.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.1ddb22f8.chunk.js"
   },
   {
-    "revision": "34904169d4c07af8011d",
-    "url": "/static/js/main.419b5ba3.chunk.js"
+    "revision": "7a34539e300ac1cd7bbf",
+    "url": "/static/js/main.a5aa83f3.chunk.js"
   },
   {
     "revision": "10cd5e2f268b2bfa7e5a",
@@ -44,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
-  },
-  {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
     "url": "/static/media/codeInLogo.47a7a717.webp"
   },
@@ -60,12 +56,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/static/media/facebookLogo.8ddf76a1.png"
+    "revision": "8295e7e107a6741aea40a48946378f46",
+    "url": "/static/media/dxclogo.8295e7e1.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
+  },
+  {
+    "revision": "7dd5d9d5b91fbc210508c0a97f996ae2",
+    "url": "/static/media/hplogo.7dd5d9d5.png"
+  },
+  {
+    "revision": "f477c34ae2c3156b0b4da4ae541c155f",
+    "url": "/static/media/ignitelogo.f477c34a.png"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
@@ -78,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
