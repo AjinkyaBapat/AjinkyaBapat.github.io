@@ -1,39 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d380620233fbf9e05b5e1685f5e2ca4",
+    "revision": "7208751f6fbf85d156ac731099b36b39",
     "url": "/index.html"
   },
   {
-    "revision": "d5614802c38d7dc70a25",
+    "revision": "6acdc4cce1c766a4ca60",
     "url": "/static/css/3.c7b31c95.chunk.css"
   },
   {
-    "revision": "623ce1b63872bceff654",
-    "url": "/static/css/4.54df59d4.chunk.css"
+    "revision": "27615900c9af1f800a97",
+    "url": "/static/css/main.b73b6cda.chunk.css"
   },
   {
-    "revision": "7c1f4aa8dadee3b46bef",
-    "url": "/static/css/main.aa3d5339.chunk.css"
+    "revision": "18ada73c677f6217c0a6",
+    "url": "/static/js/2.18c61904.chunk.js"
   },
   {
-    "revision": "5acc232fdd03a98d3011",
-    "url": "/static/js/2.fcdc6190.chunk.js"
+    "revision": "6acdc4cce1c766a4ca60",
+    "url": "/static/js/3.85c45353.chunk.js"
   },
   {
-    "revision": "d5614802c38d7dc70a25",
-    "url": "/static/js/3.e87cb3bc.chunk.js"
+    "revision": "27615900c9af1f800a97",
+    "url": "/static/js/main.3fc68888.chunk.js"
   },
   {
-    "revision": "623ce1b63872bceff654",
-    "url": "/static/js/4.79785d8b.chunk.js"
-  },
-  {
-    "revision": "7c1f4aa8dadee3b46bef",
-    "url": "/static/js/main.f0ff9144.chunk.js"
-  },
-  {
-    "revision": "741ccc372c5971fe5b5f",
-    "url": "/static/js/runtime-main.012447ac.js"
+    "revision": "1538bdd74c37de5627ed",
+    "url": "/static/js/runtime-main.94227019.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -76,10 +68,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
@@ -88,15 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/quoraLogo.4b2938b9.png"
   },
   {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
-  },
-  {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/static/media/talksCardBack.13780cdd.svg"
   }
 ]);
