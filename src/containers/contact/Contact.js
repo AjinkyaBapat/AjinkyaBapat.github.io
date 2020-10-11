@@ -2,6 +2,7 @@ import React from "react";
 import "./Contact.css";
 import "../../components/githubProfileCard/GithubProfileCard.css";
 import "../../containers/blogs/Blog.css";
+import "../../index.css";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import {contactInfo} from "../../portfolio";
 import { Fade } from "react-reveal";
