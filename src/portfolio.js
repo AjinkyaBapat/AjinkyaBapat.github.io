@@ -141,12 +141,12 @@ const workExperiences = {
       company: "DXC",
       companylogo: require("./assets/images/dxclogo.png"),
       date: "Apr 2017 – Apr 2018",
-      desc: "Handled IaaS offerings to Client through Private Cloud."
+      desc: "Handled IaaS offerings to multiple clients through Private Cloud."
     },
     {
       role: "DevOps Engineer",  
       company: "HP/HPE",
-      companylogo: require("./assets/images/hplogo.jpg"),
+      companylogo: require("./assets/images/hplogo.png"),
       date: "Nov 2015 – Apr 2017",
       desc: "Handled Enterprise Application Deployments, IaC, CI/CD on Private Cloud."
     },
@@ -194,7 +194,7 @@ const achievementSection = {
       subtitle: "Microsoft Azure Administrator Associate.",
       image: require("./assets/images/azbadge.png"),
       footerLink: [
-        { name: "Certificate", url: "" },
+        { name: "Certificate", url: "https://drive.google.com/file/d/1_rPbsQBX-DBHIRwKVNKqEQAy-TkCKJbk/view?usp=sharing" },
         { name: "Verify Badge", url: "https://www.youracclaim.com/badges/79f868a7-d52f-460d-9927-aa6dd1b31b0b/public_url" },
         { name: "Exam Page", url: "https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" }
       ]
@@ -204,7 +204,7 @@ const achievementSection = {
       subtitle: "Microsoft Certified Trainer.",
       image: require("./assets/images/mctbadge.png"),
       footerLink: [
-        { name: "Certificate", url: "" },
+        { name: "Certificate", url: "https://drive.google.com/file/d/1qY1yDcD2mSHikha4xUZoJH6umkseCsRU/view?usp=sharing" },
         { name: "Verify Badge", url: "https://www.youracclaim.com/badges/1c180dd5-6f96-4f6d-b507-6900a600d1ff/public_url" },
         { name: "Program Page", url: "https://docs.microsoft.com/en-us/learn/certifications/mct-certification"}
       ]
@@ -214,7 +214,7 @@ const achievementSection = {
       subtitle: "Hashicorp Certified Terraform Associate.",
       image: require("./assets/images/tfbadge.png"),
       footerLink: [
-        { name: "Certificate", url: "" },
+        { name: "Certificate", url: "https://drive.google.com/file/d/1JVx53pGgd78idA9SJGAwQ5_5G6IoUVUn/view?usp=sharing" },
         { name: "Verify Badge", url: "https://www.youracclaim.com/badges/7f9c2d3e-d396-467d-861f-8e469d928056/public_url" },
         { name: "Exam Page", url: "https://www.hashicorp.com/certification/terraform-associate" }
       ]
@@ -234,7 +234,7 @@ const achievementSection = {
       subtitle: "Certified Apache Cassandra Administrator Associate.",
       image: require("./assets/images/cassandrabadge.png"),
       footerLink: [
-        { name: "Certificate", url: "" },
+        { name: "Certificate", url: "https://drive.google.com/file/d/1G1IvCQxkLhzRI1ucOOGWvWx8NJbC-29-/view?usp=sharing" },
         { name: "Verify Badge", url: "https://certification.mettl.com/datastax/applicant/verify-certification-with-qr?email=ajinkyabapat12%40gmail.com&assessment=Cassandra%20Administrator%20Exam%20v1&date=Sep%2015,%202020" },
         { name: "Exam Page", url: "https://www.datastax.com/dev/certifications" }   
       ]
@@ -255,7 +255,7 @@ const achievementSection = {
       subtitle: "Aviatrix Certified Multi-Cloud Networking Associate.",
       image: require("./assets/images/acebadge.png"),
       footerLink: [
-        { name: "Certificate", url: "" },
+        { name: "Certificate", url: "https://drive.google.com/file/d/1zkTGKt4r_PclvfKYmzHu4WxIIuW2CM2p/view?usp=sharing" },
         { name: "Verify Badge", url: "https://www.youracclaim.com/badges/275a1101-6131-4126-8051-ba5999acec7c/public_url"},
         { name: "Exam Page", url: "https://aviatrix.com/ace/"}
       ]
@@ -265,7 +265,7 @@ const achievementSection = {
       subtitle: "Scrum Foundation Certified Professional.",
       image: require("./assets/images/scrumbadge.png"),
       footerLink: [
-        { name: "Certificate", url: "" },
+        { name: "Certificate", url: "https://drive.google.com/file/d/1uWClKH3onGiv9yfj8Uh1xYPxSbIzBaGB/view?usp=sharing" },
         { name: "Verify Badge", url: "https://www.youracclaim.com/badges/a793045a-410d-44ab-a440-d721e09fc2fb/public_url"},
         { name: "Exam Page", url: "https://certiprof.com/pages/scrum-foundation-professional-certificate-sfpc-en-sp"}
       ]
