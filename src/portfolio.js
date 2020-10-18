@@ -10,7 +10,7 @@ const greeting = {
   username: "Ajinkya Bapat",
   title: "Hello, I'm Ajinkya",
   subTitle: emoji("A passionate DevOps Engineer 🚀 experienced in architecting, automating and optimizing mission critical deployments over large infrastructure."),
-  resumeLink: "http://iamajinkya.me/techwisdom/"
+  resumeLink: "https://iamajinkya.me/techwisdom/"
 };
 
 // Your Social Media Link
@@ -282,17 +282,17 @@ const blogSection = {
 
   blogs: [
     {
-      url: "http://iamajinkya.me/techwisdom/mongodbcert/",
+      url: "https://iamajinkya.me/techwisdom/mongodbcert/",
       title: "Passing MongoDB Certified DBA Exam (Part 1)",
       description: "Everything you need to know about the MongoDB Certified DBA (C100DBA) Exam!"
     },
     {
-      url: "http://iamajinkya.me/techwisdom/aviatrix-ace-certification/",
+      url: "https://iamajinkya.me/techwisdom/aviatrix-ace-certification/",
       title: "Passing Aviatrix Certified Engineer Exam",
       description: "The Aviatrix Certified Engineer (ACE) Program is the first multi-cloud networking and security certification available to technical professionals and cloud practitioners."
     },
     {
-      url: "http://iamajinkya.me/techwisdom/",
+      url: "https://iamajinkya.me/techwisdom/",
       title: "Link to my Blog",
       description: "Head over to my blog site to read more articles on DevOps."
     }
