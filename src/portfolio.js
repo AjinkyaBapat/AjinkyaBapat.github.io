@@ -146,7 +146,7 @@ const workExperiences = {
     {
       role: "DevOps Engineer",  
       company: "HP/HPE",
-      companylogo: require("./assets/images/hplogo.png"),
+      companylogo: require("./assets/images/hplogo.jpg"),
       date: "Nov 2015 – Apr 2017",
       desc: "Handled Enterprise Application Deployments, IaC, CI/CD on Private Cloud."
     },
