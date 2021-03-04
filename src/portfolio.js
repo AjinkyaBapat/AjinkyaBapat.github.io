@@ -221,7 +221,7 @@ const achievementSection = {
     },
     {
       title: "Jenkins Certification",
-      subtitle: "Certified Jenkins Engineer 2021",
+      subtitle: "Certified Jenkins Engineer(CJE) 2021.",
       image: require("./assets/images/cjebadge.png"),
       footerLink: [
         { name: "Certificate", url: "https://drive.google.com/file/d/1VzUwLsJT5X6oWYyHQtBMJlbqSmwFFoiY/view?usp=sharing" },
@@ -251,7 +251,7 @@ const achievementSection = {
     },
     {
       title: "Nutanix Certification",
-      subtitle: "Nutanix Certified Associate.",
+      subtitle: "Nutanix Certified Associate(NCA).",
       image: require("./assets/images/ncabadge.png"),
       footerLink: [
         { name: "Certificate", url: "https://drive.google.com/file/d/1iOtRNG2pH6deePJ_0UySH0FLRQ57ac7L/view?usp=sharing" },
