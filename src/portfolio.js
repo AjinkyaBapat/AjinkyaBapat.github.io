@@ -220,6 +220,16 @@ const achievementSection = {
       ]
     },
     {
+      title: "Jenkins Certification",
+      subtitle: "Certified Jenkins Engineer 2021",
+      image: require("./assets/images/cjebadge.png"),
+      footerLink: [
+        { name: "Certificate", url: "https://drive.google.com/file/d/1VzUwLsJT5X6oWYyHQtBMJlbqSmwFFoiY/view?usp=sharing" },
+        { name: "Verify Badge", url: "https://certificates.cloudbees.com/1b2f9fda-32ef-4245-85d5-51ab9b3a2d4e" },
+        { name: "Exam Page", url: "https://www.cloudbees.com/jenkins/certification" }
+      ]
+    },
+    {
       title: "MongoDB Certification",
       subtitle: "Certified MongoDB Database Administrator Associate.",
       image: require("./assets/images/mongodbbadge.png"),
@@ -237,6 +247,16 @@ const achievementSection = {
         { name: "Certificate", url: "https://drive.google.com/file/d/1G1IvCQxkLhzRI1ucOOGWvWx8NJbC-29-/view?usp=sharing" },
         { name: "Verify Badge", url: "https://certification.mettl.com/datastax/applicant/verify-certification-with-qr?email=ajinkyabapat12%40gmail.com&assessment=Cassandra%20Administrator%20Exam%20v1&date=Sep%2015,%202020" },
         { name: "Exam Page", url: "https://www.datastax.com/dev/certifications" }   
+      ]
+    },
+    {
+      title: "Nutanix Certification",
+      subtitle: "Nutanix Certified Associate.",
+      image: require("./assets/images/ncabadge.png"),
+      footerLink: [
+        { name: "Certificate", url: "https://drive.google.com/file/d/1iOtRNG2pH6deePJ_0UySH0FLRQ57ac7L/view?usp=sharing" },
+        { name: "Verify Badge", url: "https://www.youracclaim.com/badges/2888d097-198b-4705-bf10-e98d62551543/public_url" },
+        { name: "Exam Page", url: "https://www.nutanix.com/support-services/training-certification/certifications" }   
       ]
     },
     {
